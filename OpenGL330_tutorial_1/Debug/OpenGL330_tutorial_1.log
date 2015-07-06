@@ -1,0 +1,32 @@
+﻿Build started 2015-07-03 17:44:46.
+     1>Project "C:\Users\Linus Granath\Documents\Visual Studio 2013\Projects\OpenGL330_tutorial_1\OpenGL330_tutorial_1\OpenGL330_tutorial_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\visual_stdio\VC\bin\CL.exe /c /IE:\programmering\opengl\glm /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Door.cpp
+         Door.cpp
+     1>c:\users\linus granath\documents\visual studio 2013\projects\opengl330_tutorial_1\opengl330_tutorial_1\door.cpp(44): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\linus granath\documents\visual studio 2013\projects\opengl330_tutorial_1\opengl330_tutorial_1\door.cpp(64): warning C4244: '*=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\linus granath\documents\visual studio 2013\projects\opengl330_tutorial_1\opengl330_tutorial_1\door.cpp(65): warning C4244: '*=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\linus granath\documents\visual studio 2013\projects\opengl330_tutorial_1\opengl330_tutorial_1\door.cpp(68): warning C4244: '*=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\linus granath\documents\visual studio 2013\projects\opengl330_tutorial_1\opengl330_tutorial_1\door.cpp(69): warning C4244: '*=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\linus granath\documents\visual studio 2013\projects\opengl330_tutorial_1\opengl330_tutorial_1\door.cpp(78): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         E:\visual_stdio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Linus Granath\Documents\Visual Studio 2013\Projects\OpenGL330_tutorial_1\Debug\OpenGL330_tutorial_1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\programmering\opengl\freeglut-2.8.1\include\GL" /LIBPATH:"E:\programmering\opengl\glew-1.12.0\include\GL" Opengl32.lib freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Linus Granath\Documents\Visual Studio 2013\Projects\OpenGL330_tutorial_1\Debug\OpenGL330_tutorial_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Linus Granath\Documents\Visual Studio 2013\Projects\OpenGL330_tutorial_1\Debug\OpenGL330_tutorial_1.lib" /MACHINE:X86 Debug\Collision_Box.obj
+         Debug\Door.obj
+         Debug\Ghost.obj
+         Debug\Level_Loader.obj
+         Debug\Line_Of_Sight_Object.obj
+         Debug\main.obj
+         Debug\Math_Methods.obj
+         Debug\Model_Complex.obj
+         Debug\Moving_Model.obj
+         Debug\objloader.obj
+         Debug\Shader.obj
+         Debug\Model.obj
+         Debug\stb_image.obj
+         Debug\texture.obj
+         OpenGL330_tutorial_1.vcxproj -> C:\Users\Linus Granath\Documents\Visual Studio 2013\Projects\OpenGL330_tutorial_1\Debug\OpenGL330_tutorial_1.exe
+     1>Done Building Project "C:\Users\Linus Granath\Documents\Visual Studio 2013\Projects\OpenGL330_tutorial_1\OpenGL330_tutorial_1\OpenGL330_tutorial_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.10

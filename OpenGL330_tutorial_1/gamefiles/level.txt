@@ -1,0 +1,114 @@
+//TYPE POSX   POSY    POSZ   SCALEX SCALEY  SCALEZ	(OPTIONALS)	RotationX	RotationY	RotationZ
+
+// DOOR VALUES
+// TYPE POSX POSY POSZ SCALEX SCALEY SCALEZ ROTATIONX ROTATIONY ROTATIONZ KEY(0=unlocked)
+
+// Left maze wall
+
+
+WALL 	-4	0 	44 	1 	1.5	1 
+WALL 	4	0 	44 	1 	3	1 
+WALL 	8	0 	44 	1 	3	1 
+WALL 	12	0 	44 	1 	3	1 
+WALL 	16	0 	44 	1 	3	1 
+WALL 	20	0 	44 	1 	3	1 
+WALL 	24	0 	44 	1 	3	1 
+WALL 	28	0 	44 	1 	3	1 
+WALL 	32	0 	44 	1 	3	1 
+DOOR 	37.75	1.5 	46 	2 	3	1.75			1.57		0	0	0
+WALL 	40	0 	44 	1 	3	1 
+WALL 	44	0 	44 	1 	3	1 
+WALL 	48	0 	44 	1 	3	1 
+WALL 	52	0 	44 	1 	3	1 
+
+WALL 	4	0 	40 	1 	3	1 
+WALL 	8	0 	40 	1 	3	1 
+WALL 	24	0 	40 	1 	3	1 
+WALL 	32	0 	40 	1 	3	1 
+WALL 	52	0 	40 	1 	3	1 
+
+WALL 	4	0 	36 	1 	3	1 
+WALL 	16	0 	36	1 	3	1 
+WALL 	32	0 	36	1 	3	1 
+WALL 	36	0 	36	1 	3	1 
+WALL 	40	0 	36	1 	3	1 
+WALL 	44	0 	36	1 	3	1 
+WALL 	52	0 	36	1 	3	1 
+
+WALL 	4	0 	32	1 	3	1 
+WALL 	12	0 	32	1 	3	1 
+WALL 	16	0 	32	1 	3	1 
+WALL 	20	0 	32	1 	3	1 
+WALL 	24	0 	32	1 	3	1 
+WALL 	52	0 	32	1 	3	1 
+
+WALL 	4	0 	28	1 	3	1 
+WALL 	24	0 	28	1 	3	1 
+WALL 	32	0 	28	1 	3	1 
+WALL 	40	0 	28	1 	3	1 
+WALL 	44	0 	28	1 	3	1 
+WALL 	52	0 	28	1 	3	1 
+
+WALL 	4	0 	24	1 	3	1
+WALL 	8	0 	24	1 	3	1 
+WALL 	12	0 	24	1 	3	1 
+WALL 	16	0 	24	1 	3	1 
+WALL 	24	0 	24	1 	3	1 
+WALL 	32	0 	24	1 	3	1 
+WALL 	36	0 	24	1 	3	1 
+WALL 	40	0 	24	1 	3	1 
+WALL 	52	0 	24	1 	3	1 
+
+WALL 	4	0 	20	1 	3	1 
+WALL 	16	0 	20	1 	3	1 
+WALL 	48	0 	20	1 	3	1 
+WALL 	52	0 	20	1 	3	1 
+
+DOOR 	2	1.5 	14.25 	2 	3	1.75		3.14		0	0	2
+DOOR 	2	1.5 	52 	2 	3	1.75		1.57		0	0	0
+WALL 	12	0 	16	1 	3	1 
+WALL 	16	0 	16	1 	3	1 
+WALL 	20	0 	16	1 	3	1 
+WALL 	24	0 	16	1 	3	1 
+WALL 	28	0 	16	1 	3	1 
+WALL 	32	0 	16	1 	3	1 
+WALL 	36	0 	16	1 	3	1 
+WALL 	40	0 	16	1 	3	1 
+WALL 	52	0 	16	1 	3	1 
+
+WALL 	4	0 	12	1 	3	1 
+WALL 	24	0 	12	1 	3	1 
+WALL 	40	0 	12	1 	3	1 
+WALL 	44	0 	12	1 	3	1 
+WALL 	52	0 	12	1 	3	1 
+
+
+WALL 	4	0 	8	1 	3	1 
+WALL 	16	0 	8	1 	3	1 
+WALL 	32	0 	8	1 	3	1 
+WALL 	52	0 	8	1 	3	1 
+
+WALL 	4	0 	4	1 	3	1 
+WALL 	8	0 	4	1 	3	1 
+WALL 	12	0 	4	1 	3	1 
+WALL 	16	0 	4	1 	3	1 
+WALL 	20	0 	4	1 	3	1 
+WALL 	24	0 	4	1 	3	1 
+WALL 	28	0 	4	1 	3	1 
+WALL 	32	0 	4	1 	3	1 
+WALL 	36	0 	4	1 	3	1 
+WALL 	40	0 	4	1 	3	1 
+WALL 	44	0 	4	1 	3	1 
+WALL 	48	0 	4	1 	3	1 
+WALL 	52	0 	4	1 	3	1 
+
+
+LADDER	36 	-0.5 	56 	1	1	1
+LADDER	36 	5.5 	56	1	1	1
+WALL 	33.25	8 	56	1 	0.1	1 
+WALL 	29.25	8 	56	1 	0.1	1 
+WALL 	25.25	8 	56	1 	0.1	1 
+WALL 	25.25	8 	60	1 	0.1	1 
+WALL 	25.25	8 	64	1 	0.1	1 
+WALL 	25.25	8 	68	1 	0.1	1 
+GHOST	25.25	8 	68	1 	1	1 
